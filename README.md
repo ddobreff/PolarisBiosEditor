@@ -1,27 +1,6 @@
 # PolarisBiosEditor v1.6.4
 
-I accept donations:
-
-BTC: 
-38kBLXm5Pw25rbfYh94cUmS6ZJcdTAioxA
-
-LTC: 
-LU63wHP66LCXDB3ky9yFvSApMnBoovqtGe
-
-DASH: 
-XhQLBbwZkKqFG1GdkuqnyrfktRDdxFkJVt
-
-ETH / ETC: 
-0xCdf1C1258A7bA88878fa6582397C578d8a281C96
-
-ZEC: 
-t1RqrF5xvQMFkkMeGxzmTCp5wAZKcSFPbZJ
-
-XMR: 
-4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CWFV4WYTT4jRLHwoqcS
-
-BCH: 
-1KA6t9YoLtfG9ji1K3WJQsPdydBue2aGcP
+For donations or other requests please contact me by email: jk@jascha-knack.de
 
 VirusTotal Report: https://www.virustotal.com/de/file/da96cd604093c686e8b1488726ae10a43a550aea5aaba0c0f308183b86f340f3/analysis/1505395469/
 
