@@ -1,4 +1,4 @@
-# PolarisBiosEditor v1.6.4
+# PolarisBiosEditor v1.6.5
 
 For donations or other requests please contact me by email: jk@jascha-knack.de
 
@@ -15,6 +15,9 @@ one click timing feature should be used with care, it maybe not stable for you
 please build the executable yourself or decompile the existing one if you don't trust
 
 rx5xx also supported
+
+### v1.6.5
+- support up to 48 entrys in the timings table (more than 2 memory vendors)
 
 ### v1.6.4
 - elpida timings fixed

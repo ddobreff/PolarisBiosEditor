@@ -93,7 +93,7 @@ namespace PolarisBiosEditor
         ATOM_VRAM_ENTRY[] atom_vram_entries;
         ATOM_VRAM_TIMING_ENTRY[] atom_vram_timing_entries;
         int atom_vram_index = 0;
-        const int MAX_VRAM_ENTRIES = 24;
+        const int MAX_VRAM_ENTRIES = 48; // e.g. MSI-Armor-RX-580-4GB has 36 entrys
         int atom_vram_timing_offset;
 
         [StructLayout(LayoutKind.Sequential, Pack = 1)]
@@ -457,7 +457,7 @@ namespace PolarisBiosEditor
         public PolarisBiosEditor()
         {
             InitializeComponent();
-            this.Text += " 1.6.4";
+            this.Text += " 1.6.5";
 
             rc.Add("MT51J256M3", "MICRON");
             rc.Add("EDW4032BAB", "ELPIDA");
