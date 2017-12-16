@@ -58,7 +58,7 @@ namespace PolarisBiosEditor
         Byte[] buffer;
         Int32Converter int32 = new Int32Converter();
         UInt32Converter uint32 = new UInt32Converter();
-        string[] supportedDeviceID = new string[] { "67DF", "1002", "67FF" };
+        string[] supportedDeviceID = new string[] { "67DF", "1002", "67FF", "699F" };
         string deviceID = "";
 
         int atom_rom_checksum_offset = 0x21;
@@ -457,7 +457,7 @@ namespace PolarisBiosEditor
         public PolarisBiosEditor()
         {
             InitializeComponent();
-            this.Text += " 1.6.5";
+            this.Text += " 1.6.6";
 
             rc.Add("MT51J256M3", "MICRON");
             rc.Add("EDW4032BAB", "ELPIDA");
